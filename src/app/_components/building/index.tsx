@@ -106,7 +106,7 @@ export default function Building() {
     try {
       await Tone.start()
     } catch (e) {
-      console.warn('Audio unlock failed')
+      console.warn('Audio unlock failed:' + e)
     }
   }
 
