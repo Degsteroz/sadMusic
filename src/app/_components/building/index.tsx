@@ -34,6 +34,8 @@ let leadPart: Tone.Part
 let wind: Tone.Noise
 let windGain: Tone.Gain
 
+let unlockAudioBuffer: HTMLAudioElement | null = null
+
 export default function Building() {
   const [images, setImages] = useState<string[]>([])
   const [gridData, setGridData] = useState<BlockData[][]>([])
@@ -105,8 +107,13 @@ export default function Building() {
   const unlockAudio = async () => {
     try {
       await Tone.start()
+      if (!unlockAudioBuffer) {
+        unlockAudioBuffer = new Audio('/silent.mp3')
+        unlockAudioBuffer.loop = false
+        unlockAudioBuffer.play().catch(() => {})
+      }
     } catch (e) {
-      console.warn('Audio unlock failed:' + e)
+      console.warn('Audio unlock failed')
     }
   }
 
