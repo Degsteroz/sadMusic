@@ -195,7 +195,12 @@ export default function Building() {
             <button
               className="startButton pixel"
               onClick={async () => {
-                await Tone.start()
+                try {
+                  await Tone.context.resume()  // ← это критично
+                  await Tone.start()
+                } catch (e) {
+                  console.warn('AudioContext resume failed' + e)
+                }
                 setReady(true)
               }}
             >
