@@ -26,6 +26,9 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         {children}
+        <audio id="silent" autoPlay muted loop playsInline>
+          <source src="/silent.mp3" type="audio/mp3"/>
+        </audio>
       </body>
     </html>
   );
