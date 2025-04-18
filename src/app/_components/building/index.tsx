@@ -102,6 +102,14 @@ export default function Building() {
     startMelody(first.sequence)
   }, [images, ready, gridData.length])
 
+  const unlockAudio = async () => {
+    try {
+      await Tone.start()
+    } catch (e) {
+      console.warn('Audio unlock failed')
+    }
+  }
+
   const startMelody = async (sequence: Sequence) => {
     await Tone.start()
 
@@ -118,7 +126,7 @@ export default function Building() {
     melodySynth = new Tone.Synth({
       oscillator: { type: 'sine' },
       envelope: { attack: 0.3, decay: 0.2, sustain: 0.4, release: 2 },
-      volume: -12,
+      volume: -12
     })
 
     pad = new Tone.PolySynth(Tone.Synth, {
@@ -168,7 +176,7 @@ export default function Building() {
   const getContent = () => {
     if (!ready) {
       return (
-        <div className="startScreen night">
+        <div className="startScreen night" onTouchStart={unlockAudio} onClick={unlockAudio}>
           {!showStart ? (
             <div className="loadingText">Загрузка...</div>
           ) : (
