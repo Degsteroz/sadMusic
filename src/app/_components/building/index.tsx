@@ -180,7 +180,13 @@ export default function Building() {
           {!showStart ? (
             <div className="loadingText">Загрузка...</div>
           ) : (
-            <button className="startButton pixel" onClick={() => setReady(true)}>
+            <button
+              className="startButton pixel"
+              onClick={async () => {
+                await Tone.start()
+                setReady(true)
+              }}
+            >
               Начать
             </button>
           )}
