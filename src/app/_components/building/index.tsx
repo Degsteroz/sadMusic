@@ -34,8 +34,6 @@ let leadPart: Tone.Part
 let wind: Tone.Noise
 let windGain: Tone.Gain
 
-let unlockAudioBuffer: HTMLAudioElement | null = null
-
 export default function Building() {
   const [images, setImages] = useState<string[]>([])
   const [gridData, setGridData] = useState<BlockData[][]>([])
@@ -104,24 +102,6 @@ export default function Building() {
     startMelody(first.sequence)
   }, [images, ready, gridData.length])
 
-  const unlockAudio = async () => {
-    try {
-      await Tone.start()
-
-      if (!unlockAudioBuffer) {
-        unlockAudioBuffer = new Audio('/silent.mp3')
-        unlockAudioBuffer.loop = false
-        unlockAudioBuffer.play().catch(() => {})
-      }
-
-      // 🔊 сыграть короткую ноту
-      const blip = new Tone.Synth().toDestination()
-      blip.triggerAttackRelease('C4', '16n')
-    }  catch (e) {
-      console.warn('Audio unlock failed: ' + e)
-    }
-  }
-
   const startMelody = async (sequence: Sequence) => {
     await Tone.start()
 
@@ -188,7 +168,7 @@ export default function Building() {
   const getContent = () => {
     if (!ready) {
       return (
-        <div className="startScreen night" onTouchStart={unlockAudio} onClick={unlockAudio}>
+        <div className="startScreen night">
           <iframe
             src="/unlock.html"
             style={{ width: 0, height: 0, border: 'none', position: 'absolute' }}
@@ -197,18 +177,7 @@ export default function Building() {
           {!showStart ? (
             <div className="loadingText">Загрузка...</div>
           ) : (
-            <button
-              className="startButton pixel"
-              onClick={async () => {
-                try {
-                  await Tone.context.resume()  // ← это критично
-                  await Tone.start()
-                } catch (e) {
-                  console.warn('AudioContext resume failed' + e)
-                }
-                setReady(true)
-              }}
-            >
+            <button className="startButton pixel" onClick={() => setReady(true)}>
               Начать
             </button>
           )}
