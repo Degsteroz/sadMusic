@@ -189,6 +189,11 @@ export default function Building() {
     if (!ready) {
       return (
         <div className="startScreen night" onTouchStart={unlockAudio} onClick={unlockAudio}>
+          <iframe
+            src="/unlock.html"
+            style={{ width: 0, height: 0, border: 'none', position: 'absolute' }}
+            allow="autoplay"
+          />
           {!showStart ? (
             <div className="loadingText">Загрузка...</div>
           ) : (
