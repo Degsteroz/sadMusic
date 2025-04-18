@@ -107,12 +107,17 @@ export default function Building() {
   const unlockAudio = async () => {
     try {
       await Tone.start()
+
       if (!unlockAudioBuffer) {
         unlockAudioBuffer = new Audio('/silent.mp3')
         unlockAudioBuffer.loop = false
         unlockAudioBuffer.play().catch(() => {})
       }
-    } catch (e) {
+
+      // 🔊 сыграть короткую ноту
+      const blip = new Tone.Synth().toDestination()
+      blip.triggerAttackRelease('C4', '16n')
+    }  catch (e) {
       console.warn('Audio unlock failed: ' + e)
     }
   }
