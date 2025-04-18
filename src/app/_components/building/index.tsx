@@ -113,7 +113,7 @@ export default function Building() {
         unlockAudioBuffer.play().catch(() => {})
       }
     } catch (e) {
-      console.warn('Audio unlock failed')
+      console.warn('Audio unlock failed: ' + e)
     }
   }
 
