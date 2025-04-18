@@ -1,0 +1,3177 @@
+[
+  {
+    "name": "Flicker",
+    "background": [
+      {
+        "time": "0:0",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "1:1",
+        "note": "F3",
+        "duration": "2n"
+      },
+      {
+        "time": "2:2",
+        "note": "G3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:0",
+        "note": "C4",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.32",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:1.36",
+        "note": "F#4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.91",
+        "note": "D4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.51",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.52",
+        "note": "F4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:2.67",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:3.02",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.98",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.78",
+        "note": "E4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:0.36",
+        "note": "E4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.51",
+        "note": "E4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.13",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.66",
+        "note": "G4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.70",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.27",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.77",
+        "note": "C5",
+        "duration": "4t"
+      }
+    ]
+  },
+  {
+    "name": "Grey Window",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "G3",
+        "duration": "1m"
+      },
+      {
+        "time": "1:1",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "2:2",
+        "note": "E3",
+        "duration": "1m"
+      },
+      {
+        "time": "3:1",
+        "note": "A3",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:2.24",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "0:3.41",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.59",
+        "note": "G5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:0.53",
+        "note": "A5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:2.18",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.15",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.70",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:0.64",
+        "note": "A5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:2.59",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.72",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.54",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.80",
+        "note": "F4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.05",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.88",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:0.52",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.54",
+        "note": "D5",
+        "duration": "4t"
+      }
+    ]
+  },
+  {
+    "name": "Ghost Steps",
+    "background": [
+      {
+        "time": "0:0",
+        "note": "G3",
+        "duration": "1m"
+      },
+      {
+        "time": "1:2",
+        "note": "Bb3",
+        "duration": "2n"
+      },
+      {
+        "time": "2:2",
+        "note": "A3",
+        "duration": "1m"
+      },
+      {
+        "time": "3:1",
+        "note": "C4",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:1.20",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.57",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:2.25",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.56",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:3.00",
+        "note": "D4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:2.52",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.93",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.60",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.66",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:3.40",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.72",
+        "note": "G4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:0.79",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.89",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.00",
+        "note": "A5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.70",
+        "note": "A5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:0.53",
+        "note": "G5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.20",
+        "note": "A5",
+        "duration": "4t"
+      }
+    ]
+  },
+  {
+    "name": "Low Tide",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "D3",
+        "duration": "1m"
+      },
+      {
+        "time": "1:2",
+        "note": "D3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:0",
+        "note": "D3",
+        "duration": "1m"
+      },
+      {
+        "time": "3:0",
+        "note": "G3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.46",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "0:2.47",
+        "note": "E4",
+        "duration": "4n"
+      },
+      {
+        "time": "0:0.97",
+        "note": "E4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.36",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:2.21",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:0.97",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.70",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.90",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.95",
+        "note": "D4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.62",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:3.08",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.90",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.74",
+        "note": "D4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.34",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:1.46",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.74",
+        "note": "F4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.95",
+        "note": "A4",
+        "duration": "4t"
+      }
+    ]
+  },
+  {
+    "name": "Letters Left",
+    "background": [
+      {
+        "time": "0:1",
+        "note": "E3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:0",
+        "note": "Bb3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:1",
+        "note": "D3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:0",
+        "note": "F3",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.42",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:1.42",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.64",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.30",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.47",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.55",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.36",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.48",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.38",
+        "note": "F4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.77",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:0.71",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:3.35",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.80",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:3.10",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:0.34",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.95",
+        "note": "G4",
+        "duration": "4n"
+      }
+    ]
+  },
+  {
+    "name": "Dust Motions",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "G3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:1",
+        "note": "A3",
+        "duration": "2n"
+      },
+      {
+        "time": "2:0",
+        "note": "G3",
+        "duration": "1m"
+      },
+      {
+        "time": "3:0",
+        "note": "D3",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:2.43",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:2.29",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "0:2.99",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:3.00",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:1.50",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:3.34",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.33",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:0.96",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:1.88",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.93",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.37",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.77",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.17",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:3.45",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:0.48",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:0.52",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:1.38",
+        "note": "C5",
+        "duration": "4t"
+      }
+    ]
+  },
+  {
+    "name": "Blurred Photo",
+    "background": [
+      {
+        "time": "0:1",
+        "note": "A3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:0",
+        "note": "A3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:1",
+        "note": "E3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:1",
+        "note": "C4",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.72",
+        "note": "D4",
+        "duration": "4n"
+      },
+      {
+        "time": "0:1.24",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.70",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.92",
+        "note": "B3",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.14",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.74",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.86",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:1.14",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.43",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:3.13",
+        "note": "G5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.42",
+        "note": "E5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.51",
+        "note": "G5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:3.05",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.11",
+        "note": "G5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:1.94",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.28",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.25",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:3.43",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:3.28",
+        "note": "D4",
+        "duration": "4n"
+      }
+    ]
+  },
+  {
+    "name": "Lampshade",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "F3",
+        "duration": "1m"
+      },
+      {
+        "time": "1:1",
+        "note": "A3",
+        "duration": "2n"
+      },
+      {
+        "time": "2:1",
+        "note": "A3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:0",
+        "note": "A3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:2.72",
+        "note": "E4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:2.28",
+        "note": "B4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:2.96",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "0:2.38",
+        "note": "E4",
+        "duration": "4n"
+      },
+      {
+        "time": "0:3.09",
+        "note": "E4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:2.62",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.94",
+        "note": "A5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:3.13",
+        "note": "E5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.17",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.53",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:2.80",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.84",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.11",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.69",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.17",
+        "note": "A4",
+        "duration": "4t"
+      }
+    ]
+  },
+  {
+    "name": "Taped Over",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "E3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:2",
+        "note": "G3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:2",
+        "note": "F3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:0",
+        "note": "A3",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:1.09",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:1.55",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:2.56",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.37",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.67",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.75",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.81",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.41",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.50",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:2.72",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:0.27",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:3.21",
+        "note": "A5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:3.32",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:1.55",
+        "note": "G5",
+        "duration": "8n"
+      }
+    ]
+  },
+  {
+    "name": "Whisper",
+    "background": [
+      {
+        "time": "0:1",
+        "note": "G3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:2",
+        "note": "F3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:2",
+        "note": "Bb3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:0",
+        "note": "G3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.59",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:2.72",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:3.36",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:1.30",
+        "note": "F4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.43",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:1.55",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.96",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.08",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.34",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:2.78",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.13",
+        "note": "E4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:3.27",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.45",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:3.28",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.01",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:3.03",
+        "note": "E5",
+        "duration": "4n"
+      }
+    ]
+  },
+  {
+    "name": "Midnight Wait",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "E3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:1",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "2:1",
+        "note": "F3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:1",
+        "note": "Bb3",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.44",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.51",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:2.60",
+        "note": "F#4",
+        "duration": "4n"
+      },
+      {
+        "time": "0:2.65",
+        "note": "F#4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:1.30",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.58",
+        "note": "G5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:3.09",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.77",
+        "note": "A5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:0.49",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.79",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.27",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.03",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.91",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.25",
+        "note": "F4",
+        "duration": "8n"
+      }
+    ]
+  },
+  {
+    "name": "Stairwell",
+    "background": [
+      {
+        "time": "0:1",
+        "note": "F3",
+        "duration": "1m"
+      },
+      {
+        "time": "1:0",
+        "note": "E4",
+        "duration": "2n"
+      },
+      {
+        "time": "2:1",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "3:0",
+        "note": "A3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:3.22",
+        "note": "F#4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.99",
+        "note": "F#4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:2.35",
+        "note": "D4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:3.02",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:0.86",
+        "note": "D4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:2.33",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:1.83",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.40",
+        "note": "B3",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.55",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.40",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.15",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.83",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:2.56",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:3.10",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.77",
+        "note": "G4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:3.40",
+        "note": "E5",
+        "duration": "4n"
+      }
+    ]
+  },
+  {
+    "name": "Broken Fence",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "1:0",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "2:2",
+        "note": "G3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:1",
+        "note": "A3",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:2.36",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "0:2.25",
+        "note": "G5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:3.11",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.62",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.58",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:2.77",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:0.53",
+        "note": "D4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.58",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:0.36",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.26",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:2.01",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.98",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.55",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.11",
+        "note": "A4",
+        "duration": "8n"
+      }
+    ]
+  },
+  {
+    "name": "Skyroom",
+    "background": [
+      {
+        "time": "0:0",
+        "note": "E4",
+        "duration": "2n"
+      },
+      {
+        "time": "1:0",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "2:1",
+        "note": "E4",
+        "duration": "2n"
+      },
+      {
+        "time": "3:1",
+        "note": "C4",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.62",
+        "note": "E4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:1.28",
+        "note": "E4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:2.34",
+        "note": "B4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:2.60",
+        "note": "G4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.99",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.15",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.73",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:2.43",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.23",
+        "note": "A5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:0.50",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:2.83",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.95",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.93",
+        "note": "D5",
+        "duration": "8n"
+      }
+    ]
+  },
+  {
+    "name": "Somewhere Else",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "A3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:1",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "2:1",
+        "note": "C4",
+        "duration": "2n"
+      },
+      {
+        "time": "3:0",
+        "note": "F3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:2.35",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.91",
+        "note": "G5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.94",
+        "note": "G5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:2.23",
+        "note": "G5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.83",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.96",
+        "note": "E5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:3.42",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.77",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.44",
+        "note": "E5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:0.91",
+        "note": "F#4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.52",
+        "note": "B3",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.72",
+        "note": "F#4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:0.81",
+        "note": "B3",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.92",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:0.69",
+        "note": "E5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:3.26",
+        "note": "A5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:2.61",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:0.42",
+        "note": "A5",
+        "duration": "4t"
+      }
+    ]
+  },
+  {
+    "name": "Faint Glow",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "A3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:1",
+        "note": "F3",
+        "duration": "2n"
+      },
+      {
+        "time": "2:1",
+        "note": "A3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:0",
+        "note": "Bb3",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.38",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:0.80",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.56",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:2.89",
+        "note": "E5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.78",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.64",
+        "note": "G4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:3.11",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:2.45",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.41",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.70",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:3.50",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:2.30",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:2.69",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.88",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.46",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.62",
+        "note": "D4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.70",
+        "note": "D4",
+        "duration": "4n"
+      }
+    ]
+  },
+  {
+    "name": "Silent Film",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "1:2",
+        "note": "G3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:1",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "3:0",
+        "note": "C4",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.64",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:2.89",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "0:1.13",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.15",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.71",
+        "note": "D4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.92",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.24",
+        "note": "F#4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:3.36",
+        "note": "B3",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.49",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:0.51",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.00",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.73",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:2.13",
+        "note": "F4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:3.22",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.66",
+        "note": "D4",
+        "duration": "4t"
+      }
+    ]
+  },
+  {
+    "name": "Heat Haze",
+    "background": [
+      {
+        "time": "0:0",
+        "note": "F3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:1",
+        "note": "C4",
+        "duration": "2n"
+      },
+      {
+        "time": "2:2",
+        "note": "D3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:1",
+        "note": "E3",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.57",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:3.31",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:3.17",
+        "note": "F4",
+        "duration": "4n"
+      },
+      {
+        "time": "0:2.96",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:3.41",
+        "note": "F4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:3.05",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.24",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:2.40",
+        "note": "F#4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.66",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.41",
+        "note": "F4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.25",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.44",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.98",
+        "note": "E5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.86",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:3.46",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.86",
+        "note": "A4",
+        "duration": "8n"
+      }
+    ]
+  },
+  {
+    "name": "Northbound",
+    "background": [
+      {
+        "time": "0:1",
+        "note": "E3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:1",
+        "note": "A3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:0",
+        "note": "F3",
+        "duration": "1m"
+      },
+      {
+        "time": "3:0",
+        "note": "C4",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:1.48",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.36",
+        "note": "F#4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.49",
+        "note": "F#4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:0.75",
+        "note": "F#4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.95",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:2.46",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:0.95",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:0.73",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.34",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.26",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.72",
+        "note": "G4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.67",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.11",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.82",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.81",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.82",
+        "note": "E5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.15",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.65",
+        "note": "G4",
+        "duration": "8n"
+      }
+    ]
+  },
+  {
+    "name": "Quiet Door",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "G3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:0",
+        "note": "Bb3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:0",
+        "note": "G3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:0",
+        "note": "C4",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:3.04",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "0:3.41",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "0:3.48",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:0.58",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:3.49",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:3.35",
+        "note": "D4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:2.83",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.92",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:3.30",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.80",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.86",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:3.05",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.58",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:3.12",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.92",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.56",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.66",
+        "note": "G4",
+        "duration": "4t"
+      }
+    ]
+  },
+  {
+    "name": "Pause",
+    "background": [
+      {
+        "time": "0:0",
+        "note": "Bb3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:1",
+        "note": "F3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:1",
+        "note": "D3",
+        "duration": "1m"
+      },
+      {
+        "time": "3:0",
+        "note": "D3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.63",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:1.70",
+        "note": "B4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:3.03",
+        "note": "E4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:1.40",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.05",
+        "note": "E4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.62",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.40",
+        "note": "B4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.38",
+        "note": "B4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.91",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.95",
+        "note": "F4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.61",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.53",
+        "note": "E4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:1.17",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.32",
+        "note": "B4",
+        "duration": "4t"
+      }
+    ]
+  },
+  {
+    "name": "Shelter",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "C4",
+        "duration": "2n"
+      },
+      {
+        "time": "1:2",
+        "note": "F3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:1",
+        "note": "F3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:0",
+        "note": "D3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:2.23",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:2.77",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:1.36",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:0.99",
+        "note": "B3",
+        "duration": "8n"
+      },
+      {
+        "time": "1:1.67",
+        "note": "D4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.72",
+        "note": "F#4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:0.41",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.49",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.09",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:0.58",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.25",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:3.48",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.98",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.84",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:1.87",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.65",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.43",
+        "note": "C5",
+        "duration": "8n"
+      }
+    ]
+  },
+  {
+    "name": "Backyard Signal",
+    "background": [
+      {
+        "time": "0:1",
+        "note": "F3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:0",
+        "note": "Bb3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:2",
+        "note": "C4",
+        "duration": "2n"
+      },
+      {
+        "time": "3:0",
+        "note": "C4",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:2.73",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:0.61",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:2.89",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:1.31",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.28",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.01",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:1.22",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.72",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.76",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:3.18",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.31",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.47",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:3.43",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.77",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.53",
+        "note": "A4",
+        "duration": "4n"
+      }
+    ]
+  },
+  {
+    "name": "Memory Leak",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "A3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:2",
+        "note": "E4",
+        "duration": "2n"
+      },
+      {
+        "time": "2:2",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "3:2",
+        "note": "C4",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:1.72",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.40",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "0:2.35",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:2.82",
+        "note": "E4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.70",
+        "note": "E4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.86",
+        "note": "B4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:2.85",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.21",
+        "note": "B4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.70",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:0.32",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:0.45",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.60",
+        "note": "B4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.39",
+        "note": "B4",
+        "duration": "4n"
+      }
+    ]
+  },
+  {
+    "name": "Old Train",
+    "background": [
+      {
+        "time": "0:1",
+        "note": "A3",
+        "duration": "1m"
+      },
+      {
+        "time": "1:0",
+        "note": "A3",
+        "duration": "2n"
+      },
+      {
+        "time": "2:2",
+        "note": "D3",
+        "duration": "1m"
+      },
+      {
+        "time": "3:0",
+        "note": "A3",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:1.79",
+        "note": "G5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:0.90",
+        "note": "G5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:1.35",
+        "note": "A5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:2.60",
+        "note": "A5",
+        "duration": "4n"
+      },
+      {
+        "time": "0:1.37",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:3.01",
+        "note": "D4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.89",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:2.22",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.74",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:2.47",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:3.22",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:3.13",
+        "note": "G4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.21",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:1.46",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:1.91",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.39",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:3.04",
+        "note": "C5",
+        "duration": "8n"
+      }
+    ]
+  },
+  {
+    "name": "Blue Static",
+    "background": [
+      {
+        "time": "0:2",
+        "note": "E4",
+        "duration": "2n"
+      },
+      {
+        "time": "1:0",
+        "note": "A3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:1",
+        "note": "D3",
+        "duration": "2n"
+      },
+      {
+        "time": "3:2",
+        "note": "E3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.47",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.55",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:0.60",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.49",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:2.69",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.70",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.82",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:3.00",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.13",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.18",
+        "note": "D4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.46",
+        "note": "B3",
+        "duration": "4t"
+      },
+      {
+        "time": "2:1.63",
+        "note": "B3",
+        "duration": "8n"
+      },
+      {
+        "time": "3:1.63",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.96",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.76",
+        "note": "E5",
+        "duration": "4n"
+      }
+    ]
+  },
+  {
+    "name": "Echo Chamber",
+    "background": [
+      {
+        "time": "0:0",
+        "note": "E4",
+        "duration": "2n"
+      },
+      {
+        "time": "1:1",
+        "note": "F3",
+        "duration": "1m"
+      },
+      {
+        "time": "2:2",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "3:0",
+        "note": "Bb3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:3.13",
+        "note": "B3",
+        "duration": "4t"
+      },
+      {
+        "time": "0:3.48",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.55",
+        "note": "F#4",
+        "duration": "4n"
+      },
+      {
+        "time": "0:0.56",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:1.10",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:2.44",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:3.28",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:3.06",
+        "note": "D5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:3.22",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:3.45",
+        "note": "E5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:2.92",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:0.38",
+        "note": "F#4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.21",
+        "note": "D4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:0.93",
+        "note": "F#4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:2.48",
+        "note": "A4",
+        "duration": "8n"
+      }
+    ]
+  },
+  {
+    "name": "No Signal",
+    "background": [
+      {
+        "time": "0:1",
+        "note": "F3",
+        "duration": "1m"
+      },
+      {
+        "time": "1:1",
+        "note": "A3",
+        "duration": "2n"
+      },
+      {
+        "time": "2:0",
+        "note": "Bb3",
+        "duration": "1m"
+      },
+      {
+        "time": "3:0",
+        "note": "A3",
+        "duration": "2n"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:2.07",
+        "note": "D4",
+        "duration": "4n"
+      },
+      {
+        "time": "0:0.80",
+        "note": "D4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.55",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:0.74",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "1:1.68",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.29",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:2.36",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "1:2.79",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:2.80",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:0.70",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:3.28",
+        "note": "A4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.49",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:3.24",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:2.27",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.49",
+        "note": "A4",
+        "duration": "8n"
+      }
+    ]
+  },
+  {
+    "name": "Frosted Glass",
+    "background": [
+      {
+        "time": "0:1",
+        "note": "F3",
+        "duration": "2n"
+      },
+      {
+        "time": "1:0",
+        "note": "C4",
+        "duration": "1m"
+      },
+      {
+        "time": "2:2",
+        "note": "A3",
+        "duration": "1m"
+      },
+      {
+        "time": "3:0",
+        "note": "A3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:2.84",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "0:0.83",
+        "note": "F4",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.92",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.22",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.75",
+        "note": "A4",
+        "duration": "8n"
+      },
+      {
+        "time": "1:3.48",
+        "note": "F4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.78",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:1.55",
+        "note": "G4",
+        "duration": "4t"
+      },
+      {
+        "time": "2:3.29",
+        "note": "A4",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.44",
+        "note": "C5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:0.92",
+        "note": "E5",
+        "duration": "8n"
+      },
+      {
+        "time": "3:0.43",
+        "note": "G4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:0.40",
+        "note": "B4",
+        "duration": "8n"
+      },
+      {
+        "time": "3:3.23",
+        "note": "E4",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.66",
+        "note": "E4",
+        "duration": "4n"
+      },
+      {
+        "time": "3:1.88",
+        "note": "G4",
+        "duration": "4n"
+      }
+    ]
+  },
+  {
+    "name": "Half Dream",
+    "background": [
+      {
+        "time": "0:1",
+        "note": "E4",
+        "duration": "2n"
+      },
+      {
+        "time": "1:2",
+        "note": "F3",
+        "duration": "2n"
+      },
+      {
+        "time": "2:0",
+        "note": "Bb3",
+        "duration": "1m"
+      },
+      {
+        "time": "3:1",
+        "note": "F3",
+        "duration": "1m"
+      }
+    ],
+    "lead": [
+      {
+        "time": "0:0.68",
+        "note": "C5",
+        "duration": "8n"
+      },
+      {
+        "time": "0:1.56",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "0:1.58",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:0.60",
+        "note": "E5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.50",
+        "note": "A5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:3.37",
+        "note": "G5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:1.06",
+        "note": "A5",
+        "duration": "4n"
+      },
+      {
+        "time": "1:3.12",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.43",
+        "note": "C5",
+        "duration": "4n"
+      },
+      {
+        "time": "2:2.25",
+        "note": "G5",
+        "duration": "8n"
+      },
+      {
+        "time": "2:1.07",
+        "note": "G5",
+        "duration": "4t"
+      },
+      {
+        "time": "2:2.69",
+        "note": "D5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.17",
+        "note": "D5",
+        "duration": "4n"
+      },
+      {
+        "time": "3:1.20",
+        "note": "E5",
+        "duration": "4t"
+      },
+      {
+        "time": "3:1.14",
+        "note": "C5",
+        "duration": "4t"
+      }
+    ]
+  }
+]

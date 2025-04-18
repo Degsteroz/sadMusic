@@ -1,0 +1,147 @@
+/* Основной контейнер */
+.building {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: #05050d;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Плавное проявление содержимого */
+.buildingContent {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 1.2s ease, visibility 1.2s ease;
+}
+
+.building.ready .buildingContent {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Ряды панелей */
+.buildingRow {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+/* Панели */
+.panelWrapper {
+  transition: transform 0.2s, outline 0.2s;
+}
+
+.panelWrapper:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+}
+
+.panelWrapper.active {
+  outline: 2px solid rgba(255, 255, 255, 0.4);
+  z-index: 2;
+  transform: scale(1.05);
+  box-shadow: 0 0 12px 2px #ffffff33;
+  filter: brightness(1.2);
+  animation: glow 1.5s ease-in-out infinite;
+}
+
+@keyframes glow {
+  0%, 100% { filter: brightness(1.1); }
+  50% { filter: brightness(1.15); }
+}
+
+/* Оверлей затемнения */
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 10;
+  pointer-events: none;
+}
+
+/* Название сцены */
+.sceneLabel {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  color: white;
+  font-size: 14px;
+  font-family: monospace;
+  z-index: 15;
+  text-shadow: 0 0 2px black;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 1.2s ease, transform 1.2s ease;
+}
+
+.building.ready .sceneLabel {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Снег */
+.snow {
+  position: absolute;
+  pointer-events: none;
+  inset: 0;
+  z-index: 999;
+}
+
+.snowflake {
+  position: absolute;
+  top: -5px;
+  background: white;
+  border-radius: 50%;
+  image-rendering: pixelated;
+  animation-name: fall;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes fall {
+  to {
+    transform: translateY(100vh);
+  }
+}
+
+/* Загрузка */
+.startScreen {
+  position: absolute;
+  inset: 0;
+  background: #05050d;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+.loadingText {
+  color: #888;
+  font-family: monospace;
+  font-size: 1.2rem;
+  animation: blink-smooth 1.6s ease-in-out infinite;
+}
+
+.startButton.pixel {
+  margin-top: 20px;
+  padding: 0;
+  font-size: 18px;
+  font-family: 'Press Start 2P', monospace;
+  background: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  text-shadow: 0 0 2px white;
+  transition: opacity 0.3s ease;
+}
+
+.startButton.pixel:hover {
+  opacity: 0.7;
+}
+
+@keyframes blink-smooth {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}

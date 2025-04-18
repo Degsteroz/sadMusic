@@ -1,0 +1,16 @@
+.fence {
+  position: fixed;
+  bottom: -50px;
+  left: 0;
+  display: flex;
+  z-index: 4;
+}
+
+.poster {
+  position: absolute;
+  left: 60%;
+  bottom: 130px;
+  transform: rotate(-7deg);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  z-index: 5;
+}
